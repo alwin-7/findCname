@@ -7,5 +7,10 @@ you want to look for the status and cname.
 
 ## Install
 ```
-git clone
+git clone https://github.com/alwin-7/findCname.git
+```
+## Usage
+You can find the sample url-list in the repo.
+```
+python3 findcname.py -l urls.txt
 ```
