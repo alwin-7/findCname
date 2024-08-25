@@ -5,7 +5,7 @@ import re
 from urllib.parse import urlparse
 
 def display_logo():
-    logo = """
+    logo = r"""
    __ _         _  ___
   / _(_)_ _  __| |/ __|_ _  __ _ _ __  ___
  |  _| | ' \/ _` | (__| ' \/ _` | '  \/ -_)
